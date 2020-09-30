@@ -1,8 +1,8 @@
 
 
-## How to install
+## Cara nginstall
 
-Cara Mudah Instalasi Laravel Toko-Barang :
+Cara gampang nginstall Laravel Toko-Barang :
 
 ```bash
 git clone https://github.com/ardirama/toko-barang.git
@@ -13,4 +13,4 @@ ubah konfigurasi database di env
 php artisan migrate
 php artisan serve
 ```
-Sekian dan terimakasih
+Sekian lan maturnuwun
